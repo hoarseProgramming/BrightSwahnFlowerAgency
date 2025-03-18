@@ -1,7 +1,13 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; 
+}
 .hero {
     height: calc(100vh - 91px);
-    background: url('../Media/Images/hero.webp') center/cover no-repeat;
+    background: url('../Media/Images/hero.webp') center/cover no-repeat;  
 }
 .overlay{
     background: rgba(0, 0, 0, 0.6);
 }
+
