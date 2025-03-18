@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     navElement.className = "navbar navbar-expand-lg bg-dark sticky-top navbar-dark";
     navElement.innerHTML = `
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html">Bright Swahn Flower Agency<img src="/BrightSwahnFlowerAgency/Media/Images/logo.png" style="width:65px" alt="BSF" /></a>
+      <a class="navbar-brand" href="/BrightSwahnFlowerAgency/index.html">Bright Swahn Flower Agency<img src="/BrightSwahnFlowerAgency/Media/Images/logo.png" style="width:65px" alt="BSF" /></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
