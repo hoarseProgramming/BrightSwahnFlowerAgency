@@ -21,6 +21,9 @@ document.addEventListener("DOMContentLoaded", function () {
           <li class="nav-item">
             <a class="nav-link mx-lg-4" href="/BrightSwahnFlowerAgency/Pages/Showcase.html">Portfolio</a>
           </li>
+            <li class="nav-item">
+            <a class="nav-link mx-lg-4" href="/BrightSwahnFlowerAgency/Pages/Services.html">Services</a>
+          </li>
         </ul>
       </div>
     </div>
