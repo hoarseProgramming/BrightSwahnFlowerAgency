@@ -5,6 +5,7 @@
 }
 
 .carousel-item img {
-    margin: 0 auto;
-    display: block;
+    width: 100%;        /* Gör bilderna full bredd av förälderelementet */
+    height: 480px;      /* Sätt en fast höjd */
+    object-fit: contain;/* Gör att hela bilden är synlig utan att förlora proportionerna */
 }
