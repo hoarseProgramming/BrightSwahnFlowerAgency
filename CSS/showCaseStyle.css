@@ -1,0 +1,10 @@
+#carouselExampleCaptions {
+    border: 3px solid gray; /* Ändra färg och tjocklek vid behov */
+    border-radius: 10px; /* Rundade hörn för en snyggare look */
+    padding: 10px; /* Lägger lite space mellan border och innehåll */
+}
+
+.carousel-item img {
+    margin: 0 auto;
+    display: block;
+}
